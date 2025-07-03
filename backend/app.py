@@ -10,7 +10,7 @@ CORS(app)
 
 UPLOAD_FOLDER = 'uploads'
 MAX_FILE_SIZE = 5 * 1024 * 1024  # 5 MB
-//hi there
+# from shalini
 if not os.path.exists(UPLOAD_FOLDER):
     os.makedirs(UPLOAD_FOLDER)
 
