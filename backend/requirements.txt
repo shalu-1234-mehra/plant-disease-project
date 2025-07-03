@@ -1,0 +1,10 @@
+Flask
+Gunicorn
+keras
+tensorflow
+numpy
+Werkzeug
+matplotlib
+scikit-learn
+flask-cors
+waitress
