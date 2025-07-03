@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Monitoring Plant Health and Diseases for Sustainable Agriculture 🌾🌱
 Revolutionizing sustainable agriculture, this project empowers farmers and researchers to combat wheat plant diseases using cutting-edge AI techniques.
 
@@ -149,3 +150,6 @@ Let’s work together to push the boundaries of innovation and take this remarka
 
 **Tags:** #PlantHealth #Agriculture #MachineLearning #CNN #WheatDisease #AI #SustainableAgriculture #DataScience #DeepLearning #SmartFarming #PlantDiseaseAI #WheatHealth #DeepLearningInAg #AIForGood #AgricultureTech #InnovationInFarming #CropProtection #FoodSecurity
 
+=======
+# plant-disease-project
+>>>>>>> e7fb7db74feedbc9d3324a7a264351ad1d881000
