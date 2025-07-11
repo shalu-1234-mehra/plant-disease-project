@@ -50,7 +50,7 @@ This dataset is designed to empower researchers and developers in creating robus
 
 ## Directory Structure
 ```
-kushagra3204-Plant-Disease-Monitoring/
+shalini3204-Plant-Disease-Monitoring/
 ├── backend/
 │   ├── app.py
 │   ├── .gitignore
